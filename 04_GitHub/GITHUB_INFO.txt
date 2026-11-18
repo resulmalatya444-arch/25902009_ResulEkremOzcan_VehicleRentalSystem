@@ -1,0 +1,11 @@
+# GitHub Repository Bilgileri
+
+Proje Şartnamesinin 7. Maddesine Uygun GitHub Bilgileri:
+
+- Repository Adı: 25902009_ResulEkremOzcan_VehicleRentalSystem
+- Repository Görünürlüğü: PRIVATE (Gizli)
+- Öğretim Elemanı GitHub Hesabı (Collaborator): tohid.yousefi
+- GitHub Repository URL: https://github.com/ResulEkremOzcan/25902009_ResulEkremOzcan_VehicleRentalSystem
+
+Not: Öğretim elemanı Sayın Dr. Öğr. Üyesi Tohid YOUSEFİ (tohid.yousefi) reponun 'Settings > Collaborators' bölümünden eklenmiştir.
+Commit mesajları şartname kuralına uygun şekilde anlamlı adımlarla yapılmıştır.
